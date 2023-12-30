@@ -1,4 +1,4 @@
-# unsafe Psedu Array to Array
+# unsafe Psedu-Array to Array
 Ways convert Pesude-Array to Array becomes unsafe
 
 ## Astral Planes
