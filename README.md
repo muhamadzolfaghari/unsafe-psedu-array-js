@@ -1,2 +1,4 @@
-# unsafe-iterator-array
-The way an iterator become unsafe when convert to array
+# unsafe iterator array
+The ways Pesude-Array becomes unsafe when converted to Array.
+
+
