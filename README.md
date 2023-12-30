@@ -14,13 +14,13 @@ for (const char of "❤") {
 ```
 
 ## Confusing behaviour
-original code
+Original Typescript Code
 ```ts
 const a = [...new Array(8).keys()];
 console.log(a);
 ```
 
-After compile to js
+After compiling Typescript to JavaScript
 ```js
 var __spreadArray = (this && this.__spreadArray) || function (to, from, pack) {
     if (pack || arguments.length === 2) for (var i = 0, l = from.length, ar; i < l; i++) {
