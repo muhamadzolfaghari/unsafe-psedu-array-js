@@ -34,7 +34,10 @@ var __spreadArray = (this && this.__spreadArray) || function (to, from, pack) {
 var a = __spreadArray([], new Array(8).keys(), true);
 console.log(a);
 ```
-Solve the problem with Array.from
+
+there is nothing in the console
+
+## Solve the problem with Array.from
 
 ```js
 Array.from(new Array(10).keys())
